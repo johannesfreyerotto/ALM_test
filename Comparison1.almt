@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComparisonInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ConnectionInfoSource>
+    <UseProject>false</UseProject>
+    <UseDesktop>true</UseDesktop>
+    <UseBimFile>false</UseBimFile>
+    <DesktopName>opc_analytics_dataset</DesktopName>
+  </ConnectionInfoSource>
+  <ConnectionInfoTarget>
+    <UseProject>false</UseProject>
+    <UseDesktop>false</UseDesktop>
+    <UseBimFile>false</UseBimFile>
+    <ServerName>powerbi://api.powerbi.com/v1.0/myorg/P_cthulhu_opc_analytics [Development]</ServerName>
+    <DatabaseName>opc_analytics_dataset</DatabaseName>
+  </ConnectionInfoTarget>
+  <OptionsInfo>
+    <OptionPerspectives>false</OptionPerspectives>
+    <OptionMergePerspectives>true</OptionMergePerspectives>
+    <OptionCultures>false</OptionCultures>
+    <OptionMergeCultures>true</OptionMergeCultures>
+    <OptionRoles>false</OptionRoles>
+    <OptionPartitions>false</OptionPartitions>
+    <OptionRetainPartitions>false</OptionRetainPartitions>
+    <OptionRetainPolicyPartitions>false</OptionRetainPolicyPartitions>
+    <OptionRetainStorageMode>false</OptionRetainStorageMode>
+    <OptionMeasureDependencies>true</OptionMeasureDependencies>
+    <OptionProcessingOption>Default</OptionProcessingOption>
+    <OptionAffectedTables>false</OptionAffectedTables>
+  </OptionsInfo>
+  <SkipSelections />
+</ComparisonInfo>
